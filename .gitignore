@@ -1,5 +1,6 @@
-/target
-/.settings
+target/
+.settings/
+.idea/
 .project
 .classpath
 *.class
